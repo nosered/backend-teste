@@ -13,13 +13,14 @@
     "bcrypt": "^1.0.2",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.37.6",
     "sequelize-cli": "^4.0.0"
   },
   "engines": {
-  	"node": "6.11.1",
-  	"npm": "3.10.10"
+    "node": "6.11.1",
+    "npm": "3.10.10"
   }
 }
